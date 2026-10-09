@@ -31,14 +31,17 @@ The agent verifies customer availability, explains the LAP offer, collects eligi
 
 ## Repository Structure
 
-- `prompts/` — System Prompt for the voice agent
-- `test-cases/` — Voice-agent test scenarios and observed results
+- [`prompts/system-prompt.md`](prompts/system-prompt.md) — System prompt for the voice agent
+- [`test-cases/eligible-customer-transcript.txt`](test-cases/eligible-customer-transcript.txt) — Eligible-customer call transcript
+- [`test-cases/recordings-and-transcripts.md`](test-cases/recordings-and-transcripts.md) — Recording and transcript documentation
+- [`test-cases/test-results.md`](test-cases/test-results.md) — Test scenarios, observed outcomes, and limitations
+- [`test-cases/`](test-cases/) — Audio recording and other test artifacts
 
 ## Testing
 
 The agent was tested with eligible-customer, agricultural-property, existing-loan, excessive-loan-amount, and multiple-disqualification scenarios.
 
-See `test-cases/test-results.md` for the recorded test outcomes and limitations.
+See [`test-cases/test-results.md`](test-cases/test-results.md) for the recorded test outcomes and limitations.
 
 ## Important Notes
 
