@@ -1,0 +1,32 @@
+user: Hi. 
+agent: Hello, may I speak with the customer?
+user: Yeah. You can speak. 
+agent: I’m calling from Home Credit. Are you available for a quick conversation about a Loan Against 
+user: Yeah. Yeah. 
+agent: Property offer?
+user: Yeah. I am. 
+agent: As one of our valued customers, we’re reaching out from Home Credit about a special Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to see if it may be suitable for you. Is that okay?
+user: Okay. I can ask. 
+agent: Could you tell me what type of property you'd like to use for the loan—residential, commercial, or industrial?
+user: I think it is a residential house. 
+user: And jointly owned with my wife 
+agent: Is the property jointly owned only by you 
+user: Ah, yes. Yes. 
+agent: and your wife?
+agent: Are the original property documents available for verification?
+user: The version documents are available. 
+user: Those that I have with me, only. 
+agent: Do you have the original property documents available, 
+user: Yeah. 
+agent: or only copies?
+agent: Just to confirm, are the documents you have the original property papers?
+user: Those documents are available. I have them with me. 
+agent: Approximately how much would you like to borrow against your property?
+user: I'm salaried, man. Salary goes directly into my bank account. So then network property is one crore. I need fifty lakhs. 
+user: and yeah. 
+agent: Over how many years would you prefer to repay the loan?
+user: I did, like, like, ten year repayment period. 
+agent: Thank you for sharing those details. Based on the information you’ve provided, you appear to meet the preliminary eligibility criteria for this offer. A Home Credit loan expert can guide you through the next steps and provide the exact interest rate and other details. Final approval will depend on verification. Thank you for your time. Have a good day.
+user: Thank you. 
+agent: You're welcome. Have a good 
+agent: day.
