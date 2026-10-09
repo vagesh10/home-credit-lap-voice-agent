@@ -2,6 +2,10 @@
 
 An AI-powered voice agent built using Retell AI to conduct preliminary Loan Against Property (LAP) eligibility checks through natural conversations.
 
+## Live Demo
+
+Try the published voice agent using Retell AI: https://agent.retellai.com/orb/agent_5b9f9ea6101abd269e81551557?token=7251f5ea8944d081a5cc04813bbf84b4
+
 ## Overview
 
 The agent verifies customer availability, explains the LAP offer, collects eligibility information, handles disqualification scenarios, and provides preliminary qualification outcomes.
